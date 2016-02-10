@@ -1,0 +1,15 @@
+Package: raqdm2
+Type: Package
+Title: Provides an interface to U.S. EPA's AQS REST API
+Version: 0.1
+Date: 2016-02-09
+Author: Eric Bailey
+Maintainer: Eric Bailey <eric@fluentdatallc.com>
+Description: Exposes all endpoints for U.S. EPA's Air
+  Quality Service (AQS) REST Service in R, making it
+  easy to import air quality data from AQS directly
+  into R for further analysis.
+License: GPL-3
+LazyData: TRUE
+Depends: httr
+RoxygenNote: 5.0.1
